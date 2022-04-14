@@ -53,7 +53,7 @@
   <arg name="max_range" default="130.0" />
   <arg name="min_range" default="0.4" />
   <arg name="pcap" default="" />
-  <arg name="port" default="2368" />
+  <arg name="port" default="2369" />
   <arg name="read_fast" default="false" />
   <arg name="read_once" default="false" />
   <arg name="repeat_delay" default="0.0" />
