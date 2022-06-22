@@ -1,8 +1,8 @@
 # Multi_Velodyne
 This is for using Multi velodyne
-you can use multiple veloydne with edited launch file.( velodyne_pointcloud/launch/VLP16_points_multi.launch)<br/>
-To use multiple devices, you should edit each device's ip and port on before edit launch file.<br/> 
-You can edit on the velodyne configuration screen. please refer to velodyne maunal.<br/> 
+You can use multiple veloydne with edited launch file.<br/>( velodyne_pointcloud/launch/VLP16_points_multi.launch)<br/>
+To use multiple devices, You should edit each device's ip and port before editing launch file.<br/> 
+You can edit on the velodyne configuration screen. For further information, please refer to velodyne maunal.<br/> 
 ![ex1](https://user-images.githubusercontent.com/22664723/163302284-2f3bd663-0511-4d80-a9ff-5dd1341cb3b9.png)<br/>
 
 After edting the configuration, you should also edit on the launch files
